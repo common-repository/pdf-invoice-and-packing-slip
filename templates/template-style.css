@@ -1,0 +1,45 @@
+
+/*h3 {
+    font-size: 15px;
+    margin: 0;
+}
+thead {
+    background: #FFC;
+}
+thead {
+    background: #FFC;
+}
+
+h1.invoice-id {
+    font-size: 17px;
+    font-weight: bold;
+    color: red;
+}
+
+h2.to {
+    font-size: 18px;
+    font-weight: bold;
+    color: red;
+    margin-top: 6px;
+}
+header.text-right {
+    margin-bottom: 22px;
+}*/
+header {width: 100%; }
+header table td {width: 50%; }
+table {width: 100%; margin-bottom: 20px; }
+header table td a {font-weight: 600; }
+header table td div {margin-bottom: 5px; }
+.text-gray-light {margin-top: 10px; }
+h2.to {margin-top: 10px; text-transform: capitalize; }
+table.product-detail thead tr {background: #000; color: #fff; }
+table.product-detail thead tr th:first-child,table.product-detail tbody tr td:first-child {width: 5%;text-align: center;}
+table.product-detail thead tr th:nth-child(2), table.product-detail tbody tr td:nth-child(2) {width: 50%; text-align: left; }
+table.product-detail thead tr th:nth-child(3), table.product-detail tbody tr td:nth-child(3) {width: 15%; }
+table.product-detail thead tr th, table.product-detail tbody tr td {width: 15%; text-align: center; }
+table tfoot td:nth-child(2) {font-weight: 700; }
+img.invoice_logo {
+    max-width: 200px;
+    max-height: 200px;
+   float: left;
+}
